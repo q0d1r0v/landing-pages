@@ -8,8 +8,8 @@ import {
 const defaultDealer: DealerData = {
   dealerId: "debug",
   templateKey: "templateOne",
-  primaryColor: "#2563EB",
-  secondaryColor: "#FBBF24",
+  primaryColor: "#2C2E87",
+  secondaryColor: "#2C2E87",
   logoUrl: "/react.svg",
   title: "Debug Title",
   description: "This is a debug description for the template.",

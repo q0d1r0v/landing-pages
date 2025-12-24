@@ -1,6 +1,12 @@
+@import url('https://fonts.googleapis.com/');
 @import "tailwindcss";
 
 @theme {
+  --font-inter: "Inter", sans-serif;
   --color-primary: "var(--color-primary)";
   --color-secondary: "var(--color-secondary)"
+}
+
+body {
+  font-family: var(--font-inter);
 }
